@@ -4,7 +4,7 @@ Welcome to my portfolio repository! Here, you’ll find a collection of websites
 
 ---
 
-### 1️⃣ [Person Site for Web Design coursework, projects, & Data Mining coursework](#)
+### 1️⃣ [Personal Site for Web Design coursework, projects, & Data Mining coursework](#)
 🛒 **Tech Stack:** HTML, CSS, Javascript
 📌 **Description:** This was my first website ever built, and my first time learning front end languages. This site was used for any and all projects & coursework for two classes. 
 Link: https://destinee-b.github.io/ | Repo: https://github.com/destinee-b/destinee-b.github.io
@@ -22,15 +22,13 @@ Link: https://adamshospitality.com/
 🥘 **Tech Stack:**  Site was rebuilt on Wix using custom snippets of HTML & CSS
 Link: https://www.alliandaidenfoundation.org/
 
-### 5️⃣ [Local Nonprofit - Alli & Aiden Foundation](#)
-🥘 **Tech Stack:**  Site was rebuilt on Wix using custom snippets of HTML & CSS
-Link: https://www.alliandaidenfoundation.org/
-
-### 6️⃣ [Shopify Websites](#)
+### 5️⃣ [Shopify Websites](#)
 💼 **Tech Stack:** Shopify Themes, custom CSS, & Liquid
 📌 **Description:** I have done several Shopify sites, well over 10, I am listing some of my favorites as the businesses make them go live! (Many are fresh builds so not all are visible to the public yet.
 Link: https://www.ruralmommasboutique.comm/
 Link: 
+
+
 
 ---
 
