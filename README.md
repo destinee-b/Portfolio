@@ -25,8 +25,8 @@ Link: https://www.alliandaidenfoundation.org/
 ### 5️⃣ [Shopify Websites](#)
 💼 **Tech Stack:** Shopify Themes, custom CSS, & Liquid
 📌 **Description:** I have done several Shopify sites, well over 10, I am listing some of my favorites as the businesses make them go live! (Many are fresh builds so not all are visible to the public yet.
-Link: https://www.ruralmommasboutique.comm/
-Link: 
+Link: https://www.ruralmommasboutique.com/
+Link: https://bestillcreationstx.com
 
 
 
