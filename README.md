@@ -29,6 +29,8 @@ Link: https://www.ruralmommasboutique.com/
 Link: https://bestillcreationstx.com
 Link: https://coxcustomcreations.shop
 Link: https://ululanicreations.myshopify.com
+Link: https://luxe-legacyco.myshopify.com/
+
 
 
 
